@@ -1,0 +1,97 @@
+[
+    {
+        "authors": "G.S. Fahara-Ojeda, L.A. Tapia-Alarcón, B.M. Villegas-Martínez, G.K. Thiruvathukal, A. A. Francisco-Neto, S. Gesing, T. Battelle, V. Stankovski, I.A. Bocanegra-Garay, A. Venegas-Gomez, J.J. Escobedo-Alatorre and R.A. Beltrán-Vargas",
+        "title": "Exact dynamics and Bloch oscillations in a non-Hermitian zigzag Glauber–Fock lattice",
+        "url": "https://doi.org/10.1016/j.physa.2025.130811"
+    },
+    {
+        "authors": "A. Francisco Neto, B.M. Villegas-Martínez",
+        "title": "A new basis- and integral-free approach to perturbation theory: The Schrödinger dynamics of trapped ions in the high-intensity regime",
+        "url": "https://doi.org/10.1016/j.aop.2024.169917"
+    },
+    {
+        "authors": "W. Contreras-Sepúlveda, B.M. Villegas-Martínez, S. Gesing, J.J. Sánchez-Pérez, A.D. Torres-Palencia, O. Palillero-Sandoval, J. Licea-Rodríguez, N. Lozano-Crisóstomo, J.C. García-Melgarejo, E. N. Palacios-Pérez",
+        "title": "Unleashing quantum algorithms with Qinterpreter: bridging the gap between theory and practice across leading quantum computing platforms",
+        "url": "https://doi.org/10.7717/peerj-cs.2318"
+    },
+    {
+        "authors": "S. A. Hojman, F.A. Asenjo, B.M. Villegas-Martínez, H.M. Moya-Cessa and F. Soto-Eguibar",
+        "title": "Exact solutions to the Telegraph equation in terms of Airy functions",
+        "url": "https://doi.org/10.31349/RevMexFis.70.040701"
+    },
+    {
+        "authors": "S. A. Hojman, F.A. Asenjo, B.M. Villegas-Martínez, H.M. Moya-Cessa and F. Soto-Eguibar",
+        "title": "Supersymmetric behavior of polarized electromagnetic waves in anisotropic media",
+        "url": "https://doi.org/10.1142/S0217732324500135"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, F. Soto-Eguibar, S. A. Hojman, F.A. Asenjo and H.M. Moya-Cessa",
+        "title": "Non-Hermitian dynamics from Hermitian systems: Do-It-Yourself",
+        "url": "https://doi.org/10.1142/S0217984924501781"
+    },
+    {
+        "authors": "S. Gesing, C. Stirm, G. Klimeck, L. Zentner, S. Wang, B.M. Villegas-Martínez, H.M. Moya-Cessa, C. Diaz Eaton, S. Donovan, C. Song, L. Zhao, I. Kim, A. Strachan, M. Zentner, R. Kalyanam",
+        "title": "Hubzero: Community Engagement in Numbers for Four Science Gateways Supporting Open Science",
+        "url": "https://doi.org/10.1109/MCSE.2023.3285092"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, H.M. Moya-Cessa & F. Soto-Eguibar",
+        "title": "Exact solution for the time-dependent non-Hermitian generalized Swanson oscillator",
+        "url": "https://doi.org/10.1016/j.photonics.2023.101128"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, H.M. Moya-Cessa & F. Soto-Eguibar",
+        "title": "Exotic light transition between superluminal and subluminal group velocity in a PT coupled slab waveguide",
+        "url": "https://doi.org/10.1016/j.photonics.2023.101128"
+    },
+    {
+        "authors": "N. Lozano- Crisóstomo, J.C. Garcia-Melgarejo, J.E. Gómez -Correa, M. A. González -Galicia and B.M. Villegas-Martínez",
+        "title": "Polarization Coherence Theorem in Birefringent Nonlinear Single-Mode Optical Fibers",
+        "url": "https://doi.org/10.1109/JLT.2022.3213486"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, H.M. Moya-Cessa & F. Soto-Eguibar",
+        "title": "Modeling displaced squeezed number states in waveguide arrays",
+        "url": "https://doi.org/10.1016/j.physa.2022.128265"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, F. Soto-Eguibar & H.M. Moya-Cessa",
+        "title": "Waveguide array simulation of the Dirac equation for even potentials",
+        "url": "https://doi.org/10.1016/j.rinp.2022.105212"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, H.M. Moya-Cessa, & F. Soto-Eguibar",
+        "title": "Approximate solutions for the ion-laser interaction in the high-intensity regime: Matrix method perturbative analysis",
+        "url": "https://doi.org/10.1007/s11082-022-03579-x"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, H.M. Moya-Cessa & F. Soto-Eguibar",
+        "title": "Exact and approximated solutions for the harmonic and anharmonic repulsive oscillators: Matrix method",
+        "url": "https://doi.org/10.1140/epjd/e2020-10128-2"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, H.M. Moya-Cessa & F. Soto-Eguibar",
+        "title": "Normalization corrections to perturbation theory based on a matrix method",
+        "url": "https://doi.org/10.1080/09500340.2017.1417508"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, F. Soto-Eguibar & H.M. Moya-Cessa",
+        "title": "Exact solution of degenerate and nondegenerate optical parametric oscillator coupled with a squeezed thermal bath",
+        "url": "https://doi.org/10.1142/S0217984918502470"
+    },
+    {
+        "authors": "B.M. Villegas-Martínez, F. Soto-Eguibar & H.M. Moya-Cessa",
+        "title": "Application of Perturbation Theory to a Master Equation",
+        "url": "https://doi.org/10.1155/2016/9265039"
+    },
+    {
+        "authors": "L.A. Andrade-Morales, B.M. Villegas-Martínez & H.M. Moya-Cessa",
+        "title": "Entropy for the Quantized Field in the Atom-Field Interaction: Initial Thermal Distribution",
+        "url": "https://doi.org/10.3390/e18100346"
+    },
+    {
+        "authors": "S.A. Torres-Hurtado, B.M. Villegas-Martínez, N. Korneev, J.C. Ramírez-San-Juan, R. Ramos-García",
+        "title": "Optical trapping with photorefractive electric fields",
+        "url": "https://doi.org/10.1117/12.930741"
+    }
+]

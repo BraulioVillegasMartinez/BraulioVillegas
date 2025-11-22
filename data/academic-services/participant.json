@@ -1,0 +1,36 @@
+[
+    {
+        "date": "October 10, 2024.",
+        "title": "LXVII National Physics Congress, Chihuahua, Mexico.",
+        "subtitles": [
+            "Reconstruction of faces using Fourier (LXVII-008582).",
+            "Optical system for capturing high-contrast, wide-field retinal images (LXVII-008764)."
+        ]
+    },
+    {
+        "date": "July 22- 27, 2024.",
+        "title": "Giambiagi Winter School “Mechanical Systems at the Quantum Level”.",
+        "subtitles": [
+            "http: //giambiagi2024.df.uba.ar/wp-content/uploads/sites/63/2024/07/Giambiagi-2024-Book_of_Abstracts.pdf"
+        ]
+    },
+    {
+        "date": "November 16th- 17th, 2023.",
+        "title": "Mexican Optics and Photonics Meeting (MOPM), Monterrey, Mexico.",
+        "subtitles": [
+            "I. A theoretical interpretation of the experimental classic coherence theory.",
+            "II. Manipulation of Light Scattering in Plasmonic Nanostructures.",
+            "III. Advancing Quantum Research and Education in Latin America through the QubitHub Quantum Science Gateway."
+        ]
+    },
+    {
+        "date": "October 2-7, 2022.",
+        "title": "LXV National Physics Congress, Zacatecas, Mexico.",
+        "subtitles": [
+            "a. Modeling a Complex Hamiltonian with a Hermitian one (LXV-005649).",
+            "b. Under, critically, and over regimens of balanced damped/gain of coupled harmonic oscillators (LXV-005641).",
+            "c. Optical Coherence effects on atomic entanglement in a Semiclassical Bloch model (LXV-005646).",
+            "d. Polarization coherence theorem in birefringent nonlinear optical fibers (LXV-004982)."
+        ]
+    }
+]
